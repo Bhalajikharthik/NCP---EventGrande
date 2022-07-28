@@ -1,1 +1,1 @@
-# NCP---EventGrande
+# EventGrande
